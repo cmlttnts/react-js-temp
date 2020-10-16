@@ -1,8 +1,4 @@
-# Trying to create advanced react components for my personal use
-
-List of components:
-
-- TBD
+# Template cra+4.0 react+17.0 jsx-without-react-import fast-refresh
 
 ## Available Scripts
 
